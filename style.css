@@ -1,0 +1,14 @@
+* {
+      margin: 0px;
+      padding: 0px;
+}
+.container {
+      max-width: 1600px;
+      margin: 0 auto;
+}
+.section_author {
+      margin-right: 15px;
+      margin-left: 15px;
+      background-color: aqua;
+      padding-left: 15px;
+}
